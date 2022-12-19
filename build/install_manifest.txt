@@ -1,0 +1,6 @@
+/home/tfardet/.local/lib/nest/energy_module.so
+/home/tfardet/.local/lib/nest/libenergy_module.so
+/home/tfardet/.local/include/energy_module.h
+/home/tfardet/.local/share/nest/sli/energy_module-init.sli
+/home/tfardet/.local/share/doc/nest/help/helpindex.html
+/home/tfardet/.local/share/doc/nest/help/helpindex.hlp
